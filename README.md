@@ -1,4 +1,7 @@
 I generated a Power BI dashboard for online sales data.          
+
+You can view live demo here at: https://app.powerbi.com/view?r=eyJrIjoiZDc1NDY5ZmEtYmEzNC00ZGRmLWFkYzYtZTU1ZmNmOGRlZTgwIiwidCI6ImQ5OTlmMTM5LTY5NzEtNDQzZC1hMTE2LTJmYTBlOWZlZDNhZSJ9
+
 Project learnings:              
 -Created an interactive dashboard using Power BI.                   
 -Used complex parameters to drill down in worksheet and customization using filters and slices.             
